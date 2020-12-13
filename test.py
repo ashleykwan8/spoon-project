@@ -6,4 +6,5 @@ test
 
 "Hello Word"
 
-"Spoon is fun!"
+"Spoons is really fun!"
+"My SPOON is TOO BIG!"
