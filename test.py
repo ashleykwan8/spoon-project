@@ -5,3 +5,5 @@ test
 "Hello"
 
 "Hello Word"
+
+"Spoon is fun!"
