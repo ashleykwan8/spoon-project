@@ -15,3 +15,9 @@ test
 testing 1 2 3
 
 Making the test feature here?
+
+
+hello! I dont see anything in your terminal.
+ooo youre right
+
+Can you see it??
