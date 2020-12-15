@@ -24,4 +24,8 @@ Can you see it??
 
 check
 Branching
-check
+<< << << < HEAD
+
+== == == =
+checking branch again.
+>>>>>> > deck-branch
