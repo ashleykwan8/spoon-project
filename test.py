@@ -31,3 +31,5 @@ checking branch again.
 >>>>>> > deck-branch
 
 Cloned and forked
+
+testing from vagrant!
