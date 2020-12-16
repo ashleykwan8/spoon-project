@@ -24,16 +24,12 @@ Can you see it??
 
 check
 Branching
+<< << << < HEAD
 
-
-
+== == == =
 checking branch again.
-deck-branch
+>>>>>> > deck-branch
 
+Cloned and forked
 
-
-
-
-
-How are things?
-Are we doing okay?
+testing from vagrant!

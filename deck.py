@@ -33,7 +33,7 @@ class Deck(list):
                 self.cards.append(Card(name, values[name], suit))
 
     def __repr__(self):
-        return f"Standard deck of cards:{len(self.cards)} remaining"
+        return f"Deck of cards: {self.cards}"
 
     def shuffle(self, times=1):
         random.shuffle(self.cards)
