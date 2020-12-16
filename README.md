@@ -1,3 +1,2 @@
 # spoon-project
-
-Hello, world!
+![alt text](https://i.imgur.com/aE6Kl2Jg.jpg)
