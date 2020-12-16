@@ -24,8 +24,16 @@ Can you see it??
 
 check
 Branching
-<< << << < HEAD
 
-== == == =
+
+
 checking branch again.
->>>>>> > deck-branch
+deck-branch
+
+
+
+
+
+
+How are things?
+Are we doing okay?
